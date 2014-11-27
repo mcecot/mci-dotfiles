@@ -1,0 +1,3 @@
+# Copy to your home folder as .rcrc
+TAGS="zprezto scm_breeze" # Tags to install on this machine
+EXCLUDES="Readme.md LICENSE"
