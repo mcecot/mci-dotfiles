@@ -1,0 +1,18 @@
+##
+# Install prezto if needed.
+#
+
+if [ -f $HOME/.zpreztorc ] && [ ! -d $HOME/.zprezto ]; then
+  (cd $HOME && git clone https://github.com/mcecot/prezto.git .zprezto)
+  (cd $HOME/.zprezto && git submodule init && git submodule update)
+fi
+
+##
+# Install scm_breeze if needed.
+#
+
+echo "!!!!"
+if [ -f $HOME/.scmbrc ] && [ ! -d $HOME/.scm_breeze ]; then
+  (cd $HOME && git clone https://github.com/cliffrowley/scm_breeze.git .scm_breeze)
+  (cd $HOME/.scm_breeze && git submodule init && git submodule update)
+fi

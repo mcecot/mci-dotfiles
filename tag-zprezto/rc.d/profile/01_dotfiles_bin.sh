@@ -1,0 +1,1 @@
+path=($HOME/.dotfiles/.bin $path)

@@ -1,0 +1,11 @@
+##
+# Remove prezto.
+#
+
+if [ -d $HOME/.zprezto ]; then
+  rm -rf $HOME/.zprezto
+fi
+
+if [ -d $HOME/.scm_breeze ]; then
+  rm -rf $HOME/.scm_breeze 
+fi
