@@ -41,7 +41,9 @@ zstyle ':prezto:load' pmodule \
   'syntax-highlighting' \
   'prompt' \
   'history-substring-search' \
-  'git'
+  'docker'
+
+#  'git'
 
 #
 # Editor

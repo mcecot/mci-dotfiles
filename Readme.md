@@ -26,3 +26,4 @@ http://habrahabr.ru/post/187588/
 https://github.com/bling/vim-airline
 https://github.com/Lokaltog/powerline-fonts
 https://powerline.readthedocs.org/en/latest/index.html
+https://github.com/ilkka/dotfiles/tree/master/home
