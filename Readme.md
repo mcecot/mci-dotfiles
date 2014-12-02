@@ -27,3 +27,6 @@ https://github.com/bling/vim-airline
 https://github.com/Lokaltog/powerline-fonts
 https://powerline.readthedocs.org/en/latest/index.html
 https://github.com/ilkka/dotfiles/tree/master/home
+http://antigen.sharats.me/
+
+https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
