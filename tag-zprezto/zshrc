@@ -33,6 +33,13 @@ export DOCKER_HOST=tcp://80.190.139.176:2375;
 alias mcid='cd ~/projects/mci-docker/docker'
 alias sfdckr='cd ~/projects/sf-docker'
 alias docker-last='docker ps -l -q'
+
+function crane-restart() { command crane kill -t $1; crane rm -t $1; crane lift -t $1; }
+
+function cpwd() { command pwd $* | tee /tmp/pwd; cat /tmp/pwd | pbcopy; rm /tmp/pwd }
+function svnclean() { sudo rm -rf `find . -type d -name .svn` }
+
+
 function docker-ip() { command docker inspect --format '{{ .NetworkSettings.IPAddress }}' $* }
-function docker-ssh() { command ssh `docker-ip $1` -l root -i ~/projects/sf-docker/baseimage/credentials/devops_rsa }
+#function docker-ssh() { command ssh `docker-ip $1` -l root -i ~/projects/sf-docker/baseimage/credentials/devops_rsa }
 #alias docker-mci='export DOCKER_HOST=tcp://10.8.0.1:2375'
