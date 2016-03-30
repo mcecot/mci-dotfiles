@@ -6,7 +6,7 @@ all dotfiles are organzied using rcm.
 invoking `rcup` will read the file `~/.rcrc` first.
 
 
-    TAGS="zprezto scm_breeze" # Tags to install on this machine
+    TAGS="ansible prezto task iterm scm_breeze" # Tags to install on this machine
     EXCLUDES="Readme.md LICENSE rcrc-template"
 
 
