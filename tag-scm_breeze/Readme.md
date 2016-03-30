@@ -1,4 +1,4 @@
 SCM Breeze
 ==========
 
-Automatically loads SCM Breeze if present.
+Automatically installs SCM Breeze if not present.

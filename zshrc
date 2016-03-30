@@ -1,1 +1,0 @@
-/Users/cecot/.dotfiles/tag-zprezto/zshrc

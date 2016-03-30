@@ -43,3 +43,4 @@ function svnclean() { sudo rm -rf `find . -type d -name .svn` }
 function docker-ip() { command docker inspect --format '{{ .NetworkSettings.IPAddress }}' $* }
 #function docker-ssh() { command ssh `docker-ip $1` -l root -i ~/projects/sf-docker/baseimage/credentials/devops_rsa }
 #alias docker-mci='export DOCKER_HOST=tcp://10.8.0.1:2375'
+source ~/.common_env

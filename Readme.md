@@ -2,8 +2,8 @@
 
 ## [RCM](https://github.com/thoughtbot/rcm)
 
-as a starter place a file in your home directory 
-`~/.rcrc`.
+all dotfiles are organzied using rcm.
+invoking `rcup` will read the file `~/.rcrc` first.
 
 
     TAGS="zprezto scm_breeze" # Tags to install on this machine
@@ -30,3 +30,12 @@ https://github.com/ilkka/dotfiles/tree/master/home
 http://antigen.sharats.me/
 
 https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+
+
+
+http://bugwarrior.readthedocs.org/en/latest/using.html
+https://visibilityspots.org/taskwarrior.html
+https://github.com/ralphbean/bugwarrior
+
+https://github.com/brndnmtthws/conky
+https://github.com/helmuthdu/conky_colors

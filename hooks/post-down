@@ -1,11 +1,13 @@
 ##
 # Remove prezto.
 #
-
 if [ -d $HOME/.zprezto ]; then
-  rm -rf $HOME/.zprezto
+  echo "deleting zprezto"
+  # rm -rf $HOME/.zprezto
 fi
 
+
 if [ -d $HOME/.scm_breeze ]; then
-  rm -rf $HOME/.scm_breeze 
+  echo "deleting scm-breeze"
+  # rm -rf $HOME/.scm_breeze
 fi
