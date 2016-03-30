@@ -1,9 +1,9 @@
 ##
 # Remove prezto.
 #
-if [ -d $HOME/.zprezto ]; then
-  echo "deleting zprezto"
-  # rm -rf $HOME/.zprezto
+if [ -d $HOME/.prezto ]; then
+  echo "deleting prezto"
+  # rm -rf $HOME/.prezto
 fi
 
 
