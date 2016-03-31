@@ -2,8 +2,8 @@
 # Executes commands at the start of an interactive session.
 
 # Source Prezto.
-if [[ -s "${ZDOTDIR:-$HOME}/.prezto/init.zsh" ]]; then
-  source "${ZDOTDIR:-$HOME}/.prezto/init.zsh"
+if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
+  source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 fi
 
 # on OSX, fix the broken(?) LC_CTYPE setting
