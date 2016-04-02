@@ -16,3 +16,6 @@ if [[ -s $HOME/.scm_breeze/scm_breeze.sh ]]; then
 fi
 
 source ~/.common_env
+
+export NVM_DIR="/Users/mc/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
