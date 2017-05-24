@@ -1,0 +1,435 @@
+time 1459270983
+new [description:"(bw)Is#9 - Wrap checkboxes in label and drop '" entry:"1459270983" githubbody:"This will make the check boxes easier to click and automatically associates the label with the checkbox (no need  for the `for` attribute)." githubcreatedon:"1440690671" githubnumber:"9" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Wrap checkboxes in label and drop 'for' attribute" githubtype:"issue" githubupdatedat:"1451514530" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"6aaab645-504c-4e99-9d60-4b2d5e59c511"]
+---
+time 1459270983
+old [description:"(bw)Is#9 - Wrap checkboxes in label and drop '" entry:"1459270983" githubbody:"This will make the check boxes easier to click and automatically associates the label with the checkbox (no need  for the `for` attribute)." githubcreatedon:"1440690671" githubnumber:"9" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Wrap checkboxes in label and drop 'for' attribute" githubtype:"issue" githubupdatedat:"1451514530" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"6aaab645-504c-4e99-9d60-4b2d5e59c511"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" description:"(bw)Is#9 - Wrap checkboxes in label and drop '" entry:"1459270983" githubbody:"This will make the check boxes easier to click and automatically associates the label with the checkbox (no need  for the `for` attribute)." githubcreatedon:"1440690671" githubnumber:"9" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Wrap checkboxes in label and drop 'for' attribute" githubtype:"issue" githubupdatedat:"1451514530" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"6aaab645-504c-4e99-9d60-4b2d5e59c511"]
+---
+time 1459270983
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" description:"(bw)Is#9 - Wrap checkboxes in label and drop '" entry:"1459270983" githubbody:"This will make the check boxes easier to click and automatically associates the label with the checkbox (no need  for the `for` attribute)." githubcreatedon:"1440690671" githubnumber:"9" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Wrap checkboxes in label and drop 'for' attribute" githubtype:"issue" githubupdatedat:"1451514530" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"6aaab645-504c-4e99-9d60-4b2d5e59c511"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" annotation_1459270984:"@apipkin - Yeah, this would be a great option as `labelW..." description:"(bw)Is#9 - Wrap checkboxes in label and drop '" entry:"1459270983" githubbody:"This will make the check boxes easier to click and automatically associates the label with the checkbox (no need  for the `for` attribute)." githubcreatedon:"1440690671" githubnumber:"9" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Wrap checkboxes in label and drop 'for' attribute" githubtype:"issue" githubupdatedat:"1451514530" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/9" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"6aaab645-504c-4e99-9d60-4b2d5e59c511"]
+---
+time 1459270983
+new [description:"(bw)Is#6 - Read-only checkboxes" entry:"1459270983" githubbody:"In many applications you want to generate a read-only checkbox, e.g. when generating static HTML documentation or rendering comments that the current user is not able to edit. It would be nice if this plugin could support that use case by adding an option to do this." githubcreatedon:"1439367326" githubnumber:"6" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Read-only checkboxes" githubtype:"issue" githubupdatedat:"1439367326" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/6" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"fba21761-d352-4503-a464-9539dc908af9"]
+---
+time 1459270983
+old [description:"(bw)Is#6 - Read-only checkboxes" entry:"1459270983" githubbody:"In many applications you want to generate a read-only checkbox, e.g. when generating static HTML documentation or rendering comments that the current user is not able to edit. It would be nice if this plugin could support that use case by adding an option to do this." githubcreatedon:"1439367326" githubnumber:"6" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Read-only checkboxes" githubtype:"issue" githubupdatedat:"1439367326" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/6" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"fba21761-d352-4503-a464-9539dc908af9"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/6" description:"(bw)Is#6 - Read-only checkboxes" entry:"1459270983" githubbody:"In many applications you want to generate a read-only checkbox, e.g. when generating static HTML documentation or rendering comments that the current user is not able to edit. It would be nice if this plugin could support that use case by adding an option to do this." githubcreatedon:"1439367326" githubnumber:"6" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Read-only checkboxes" githubtype:"issue" githubupdatedat:"1439367326" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/6" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"fba21761-d352-4503-a464-9539dc908af9"]
+---
+time 1459270983
+new [description:"(bw)Is#7 - Remove dependency on underscore" entry:"1459270983" githubbody:"It's only used in one place for `.extend` -- pretty annoying to have to add this dependency if your using this in the browser just for that. Could you use some kind of extend polyfill instead?" githubcreatedon:"1440689303" githubnumber:"7" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Remove dependency on underscore" githubtype:"issue" githubupdatedat:"1440689303" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/7" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"7557c804-a47d-4995-88ff-d02b6f628481"]
+---
+time 1459270983
+old [description:"(bw)Is#7 - Remove dependency on underscore" entry:"1459270983" githubbody:"It's only used in one place for `.extend` -- pretty annoying to have to add this dependency if your using this in the browser just for that. Could you use some kind of extend polyfill instead?" githubcreatedon:"1440689303" githubnumber:"7" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Remove dependency on underscore" githubtype:"issue" githubupdatedat:"1440689303" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/7" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"7557c804-a47d-4995-88ff-d02b6f628481"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/7" description:"(bw)Is#7 - Remove dependency on underscore" entry:"1459270983" githubbody:"It's only used in one place for `.extend` -- pretty annoying to have to add this dependency if your using this in the browser just for that. Could you use some kind of extend polyfill instead?" githubcreatedon:"1440689303" githubnumber:"7" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Remove dependency on underscore" githubtype:"issue" githubupdatedat:"1440689303" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/7" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"7557c804-a47d-4995-88ff-d02b6f628481"]
+---
+time 1459270983
+new [description:"(bw)PR#5 - fixes issue where markdown in item" entry:"1459270983" githubbody:"incorrect wrapping.\n\nAlso removed use of underscore.js, since it adds 16K minified for little value.  `md.assign` can be used to handle the option merging.\n\nresolves #3 " githubcreatedon:"1437762502" githubnumber:"5" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"fixes issue where markdown in item causes" githubtype:"pull_request" githubupdatedat:"1437762502" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"e0ef40f5-c2f3-4ea8-acc6-c1a971fab417"]
+---
+time 1459270983
+old [description:"(bw)PR#5 - fixes issue where markdown in item" entry:"1459270983" githubbody:"incorrect wrapping.\n\nAlso removed use of underscore.js, since it adds 16K minified for little value.  `md.assign` can be used to handle the option merging.\n\nresolves #3 " githubcreatedon:"1437762502" githubnumber:"5" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"fixes issue where markdown in item causes" githubtype:"pull_request" githubupdatedat:"1437762502" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"e0ef40f5-c2f3-4ea8-acc6-c1a971fab417"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" description:"(bw)PR#5 - fixes issue where markdown in item" entry:"1459270983" githubbody:"incorrect wrapping.\n\nAlso removed use of underscore.js, since it adds 16K minified for little value.  `md.assign` can be used to handle the option merging.\n\nresolves #3 " githubcreatedon:"1437762502" githubnumber:"5" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"fixes issue where markdown in item causes" githubtype:"pull_request" githubupdatedat:"1437762502" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"e0ef40f5-c2f3-4ea8-acc6-c1a971fab417"]
+---
+time 1459270983
+new [description:"(bw)Is#3 - doesn't wrap entire list item when" entry:"1459270983" githubbody:"I appreciate this plugin, but I ran into an issue.  If there is anything except plain text in the list item, then the entire list item is not wrapped with the label, only the beginning plain text.  For example, \n\n```\n- &open;X&close; checked _with_ &open;link&close;(http:\/\/example.com)\n```\n\ngenerates\n\n```\n<li><input type=&dquot;checkbox&dquot; id=&dquot;checkbox0&dquot; checked=&dquot;true&dquot;><label for=&dquot;checkbox0&dquot;>checked <\/label><em>with<\/em> <a href=&dquot;http:\/\/example.com&dquot;>link<\/a><\/li>\n```\n\ninstead of\n\n```\n<li><input type=&dquot;checkbox&dquot; id=&dquot;checkbox0&dquot; checked=&dquot;true&dquot;><label for=&dquot;checkbox0&dquot;>checked <em>with<\/em> <a href=&dquot;http:\/\/example.com&dquot;>link<\/a><\/label><\/li>\n```\n\nThis can wreak havoc with styling, making a list item clickable, etc." githubcreatedon:"1435333292" githubnumber:"3" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"doesn't wrap entire list item when a link, emphasis, or other markdown in list item" githubtype:"issue" githubupdatedat:"1435339171" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"65cb50d7-b2b8-482c-b27e-b2498331ddde"]
+---
+time 1459270983
+old [description:"(bw)Is#3 - doesn't wrap entire list item when" entry:"1459270983" githubbody:"I appreciate this plugin, but I ran into an issue.  If there is anything except plain text in the list item, then the entire list item is not wrapped with the label, only the beginning plain text.  For example, \n\n```\n- &open;X&close; checked _with_ &open;link&close;(http:\/\/example.com)\n```\n\ngenerates\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <\/label><em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/li>\n```\n\ninstead of\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/label><\/li>\n```\n\nThis can wreak havoc with styling, making a list item clickable, etc." githubcreatedon:"1435333292" githubnumber:"3" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"doesn't wrap entire list item when a link, emphasis, or other markdown in list item" githubtype:"issue" githubupdatedat:"1435339171" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"65cb50d7-b2b8-482c-b27e-b2498331ddde"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" description:"(bw)Is#3 - doesn't wrap entire list item when" entry:"1459270983" githubbody:"I appreciate this plugin, but I ran into an issue.  If there is anything except plain text in the list item, then the entire list item is not wrapped with the label, only the beginning plain text.  For example, \n\n```\n- &open;X&close; checked _with_ &open;link&close;(http:\/\/example.com)\n```\n\ngenerates\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <\/label><em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/li>\n```\n\ninstead of\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/label><\/li>\n```\n\nThis can wreak havoc with styling, making a list item clickable, etc." githubcreatedon:"1435333292" githubnumber:"3" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"doesn't wrap entire list item when a link, emphasis, or other markdown in list item" githubtype:"issue" githubupdatedat:"1435339171" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"65cb50d7-b2b8-482c-b27e-b2498331ddde"]
+---
+time 1459270983
+new [description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+---
+time 1459270983
+old [description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+---
+time 1459270983
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" annotation_1459270984:"@astoilkov - +1" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+---
+time 1459270983
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" annotation_1459270984:"@astoilkov - +1" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" annotation_1459270984:"@astoilkov - +1" annotation_1459270985:"@AleksandarS - :+1:" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+---
+time 1459270984
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" annotation_1459270984:"@astoilkov - +1" annotation_1459270985:"@AleksandarS - :+1:" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" annotation_1459270984:"@astoilkov - +1" annotation_1459270985:"@AleksandarS - :+1:" annotation_1459270986:"@tongliang999 - +1" description:"(bw)Is#11 - Syntax should follow GitHub" entry:"1459270983" githubbody:"According to https:\/\/help.github.com\/articles\/writing-on-github\/\n\nThe recommended syntax should be:\n\n```markdown\n- &open;x&close; @mentions, #refs, &open;links&close;(), **formatting**, and <del>tags<\/del> are supported\n- &open;x&close; list syntax is required (any unordered or ordered list supported)\n- &open;x&close; this is a complete item\n- &open; &close; this is an incomplete item\n```\n\nnot\n\n```markdown\n&open; &close; unchecked\n&open;x&close; checked\n```" githubcreatedon:"1445334772" githubnumber:"11" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"Syntax should follow GitHub" githubtype:"issue" githubupdatedat:"1457488663" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/11" modified:"1459270984" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"932f99db-caa5-401c-9392-fa55bac70ff2"]
+---
+time 1459270984
+new [description:"(bw)Is#2 - Update to markdown-it v6" entry:"1459270984" githubbody:"There are many changes to markdown-it which would be nice to have in this plugin too." githubcreatedon:"1458293390" githubnumber:"2" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"Update to markdown-it v6" githubtype:"issue" githubupdatedat:"1458293390" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/issues\/2" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"aae65f65-5f97-4137-962b-d0bfa8d4fe6b"]
+---
+time 1459270984
+old [description:"(bw)Is#2 - Update to markdown-it v6" entry:"1459270984" githubbody:"There are many changes to markdown-it which would be nice to have in this plugin too." githubcreatedon:"1458293390" githubnumber:"2" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"Update to markdown-it v6" githubtype:"issue" githubupdatedat:"1458293390" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/issues\/2" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"aae65f65-5f97-4137-962b-d0bfa8d4fe6b"]
+new [annotation_1459270984:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/issues\/2" description:"(bw)Is#2 - Update to markdown-it v6" entry:"1459270984" githubbody:"There are many changes to markdown-it which would be nice to have in this plugin too." githubcreatedon:"1458293390" githubnumber:"2" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"Update to markdown-it v6" githubtype:"issue" githubupdatedat:"1458293390" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/issues\/2" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"aae65f65-5f97-4137-962b-d0bfa8d4fe6b"]
+---
+time 1459270984
+new [description:"(bw)PR#1 - added callback in options, for cust" entry:"1459270984" githubbody:"...of the markdown-it instance\n\nThis allows a using all init-configurations not exposed through the limited API of the wrapper\n(e.g. setting md.renderer rules)" githubcreatedon:"1433440337" githubnumber:"1" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"added callback in options, for custom configuration..." githubtype:"pull_request" githubupdatedat:"1433441557" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"2f41a67e-0857-473f-9007-eae8ba99b675"]
+---
+time 1459270984
+old [description:"(bw)PR#1 - added callback in options, for cust" entry:"1459270984" githubbody:"...of the markdown-it instance\n\nThis allows a using all init-configurations not exposed through the limited API of the wrapper\n(e.g. setting md.renderer rules)" githubcreatedon:"1433440337" githubnumber:"1" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"added callback in options, for custom configuration..." githubtype:"pull_request" githubupdatedat:"1433441557" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"2f41a67e-0857-473f-9007-eae8ba99b675"]
+new [annotation_1459270984:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" description:"(bw)PR#1 - added callback in options, for cust" entry:"1459270984" githubbody:"...of the markdown-it instance\n\nThis allows a using all init-configurations not exposed through the limited API of the wrapper\n(e.g. setting md.renderer rules)" githubcreatedon:"1433440337" githubnumber:"1" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"added callback in options, for custom configuration..." githubtype:"pull_request" githubupdatedat:"1433441557" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"2f41a67e-0857-473f-9007-eae8ba99b675"]
+---
+time 1459270984
+old [annotation_1459270984:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" description:"(bw)PR#1 - added callback in options, for cust" entry:"1459270984" githubbody:"...of the markdown-it instance\n\nThis allows a using all init-configurations not exposed through the limited API of the wrapper\n(e.g. setting md.renderer rules)" githubcreatedon:"1433440337" githubnumber:"1" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"added callback in options, for custom configuration..." githubtype:"pull_request" githubupdatedat:"1433441557" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"2f41a67e-0857-473f-9007-eae8ba99b675"]
+new [annotation_1459270984:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" annotation_1459270985:"@mcecot - thanks. i will look up the failing test and m..." description:"(bw)PR#1 - added callback in options, for cust" entry:"1459270984" githubbody:"...of the markdown-it instance\n\nThis allows a using all init-configurations not exposed through the limited API of the wrapper\n(e.g. setting md.renderer rules)" githubcreatedon:"1433440337" githubnumber:"1" githubrepo:"mcecot\/gulp-markdown-it" githubtitle:"added callback in options, for custom configuration..." githubtype:"pull_request" githubupdatedat:"1433441557" githuburl:"https:\/\/github.com\/mcecot\/gulp-markdown-it\/pull\/1" modified:"1459270984" priority:"H" project:"gulp-markdown-it" status:"pending" tags:"open_source" uuid:"2f41a67e-0857-473f-9007-eae8ba99b675"]
+---
+time 1459271039
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" description:"(bw)PR#5 - fixes issue where markdown in item" entry:"1459270983" githubbody:"incorrect wrapping.\n\nAlso removed use of underscore.js, since it adds 16K minified for little value.  `md.assign` can be used to handle the option merging.\n\nresolves #3 " githubcreatedon:"1437762502" githubnumber:"5" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"fixes issue where markdown in item causes" githubtype:"pull_request" githubupdatedat:"1437762502" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"e0ef40f5-c2f3-4ea8-acc6-c1a971fab417"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" description:"(bw)PR#5 - fixes issue where markdown in item " entry:"1459270983" githubbody:"incorrect wrapping.\n\nAlso removed use of underscore.js, since it adds 16K minified for little value.  `md.assign` can be used to handle the option merging.\n\nresolves #3 " githubcreatedon:"1437762502" githubnumber:"5" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"fixes issue where markdown in item causes" githubtype:"pull_request" githubupdatedat:"1437762502" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/pull\/5" modified:"1459271039" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"e0ef40f5-c2f3-4ea8-acc6-c1a971fab417"]
+---
+time 1459271039
+old [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" description:"(bw)Is#3 - doesn't wrap entire list item when" entry:"1459270983" githubbody:"I appreciate this plugin, but I ran into an issue.  If there is anything except plain text in the list item, then the entire list item is not wrapped with the label, only the beginning plain text.  For example, \n\n```\n- &open;X&close; checked _with_ &open;link&close;(http:\/\/example.com)\n```\n\ngenerates\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <\/label><em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/li>\n```\n\ninstead of\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/label><\/li>\n```\n\nThis can wreak havoc with styling, making a list item clickable, etc." githubcreatedon:"1435333292" githubnumber:"3" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"doesn't wrap entire list item when a link, emphasis, or other markdown in list item" githubtype:"issue" githubupdatedat:"1435339171" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" modified:"1459270983" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"65cb50d7-b2b8-482c-b27e-b2498331ddde"]
+new [annotation_1459270983:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" description:"(bw)Is#3 - doesn't wrap entire list item when " entry:"1459270983" githubbody:"I appreciate this plugin, but I ran into an issue.  If there is anything except plain text in the list item, then the entire list item is not wrapped with the label, only the beginning plain text.  For example, \n\n```\n- &open;X&close; checked _with_ &open;link&close;(http:\/\/example.com)\n```\n\ngenerates\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <\/label><em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/li>\n```\n\ninstead of\n\n```\n<li><input type=\"checkbox\" id=\"checkbox0\" checked=\"true\"><label for=\"checkbox0\">checked <em>with<\/em> <a href=\"http:\/\/example.com\">link<\/a><\/label><\/li>\n```\n\nThis can wreak havoc with styling, making a list item clickable, etc." githubcreatedon:"1435333292" githubnumber:"3" githubrepo:"mcecot\/markdown-it-checkbox" githubtitle:"doesn't wrap entire list item when a link, emphasis, or other markdown in list item" githubtype:"issue" githubupdatedat:"1435339171" githuburl:"https:\/\/github.com\/mcecot\/markdown-it-checkbox\/issues\/3" modified:"1459271039" priority:"H" project:"markdown-it-checkbox" status:"pending" tags:"open_source" uuid:"65cb50d7-b2b8-482c-b27e-b2498331ddde"]
+---
+time 1460574345
+new [description:"update markers.js to use the coordinates from the infrared table." entry:"1460574345" modified:"1460574345" project:"gatorade" status:"pending" uuid:"2c1614cf-68f5-43c4-b2e1-fdd05a3aec92"]
+---
+time 1460574454
+new [description:"implement calculation of ratios for all marker." entry:"1460574454" modified:"1460574454" project:"gatorade" status:"pending" uuid:"193f3640-0de2-4cf7-a1d3-db2b3a3c4345"]
+---
+time 1460574476
+new [description:"implement calculation of ratio of potential rectangles." entry:"1460574476" modified:"1460574476" project:"gatorade" status:"pending" uuid:"461bfbce-deac-4b67-8db4-6d1eae989077"]
+---
+time 1460574529
+new [description:"detection for triangled marker." entry:"1460574529" modified:"1460574529" project:"gatorade" status:"pending" uuid:"a0898b74-74a9-49e5-9dd2-37a29b317d78"]
+---
+time 1460574555
+new [description:"invoke app frontend methods after objects has been detected." entry:"1460574555" modified:"1460574555" project:"gatorade" status:"pending" uuid:"7aefa22e-db86-4bdb-a617-34a24171ed11"]
+---
+time 1460574959
+new [description:"implement some kind of candidate method" entry:"1460574959" modified:"1460574959" project:"gatorade" status:"pending" uuid:"d6e88ee6-d74b-4168-9c19-303319d70b41"]
+---
+time 1460626729
+new [description:"marker ids abgleichen." entry:"1460626729" modified:"1460626729" project:"gatorade" status:"pending" uuid:"43ad1382-303a-43b1-a268-44a7a5ef5004"]
+---
+time 1463656771
+new [description:"make preloader animation via css." entry:"1463656771" modified:"1463656771" project:"smartpress" status:"pending" uuid:"a23439ef-f7be-47a9-b9ad-2c96033a3aaf"]
+---
+time 1463656807
+new [description:"prepare testsetup" entry:"1463656807" modified:"1463656807" project:"gatorade" status:"pending" uuid:"e257b51b-5eff-4f59-ad1d-1b8f8135fc2d"]
+---
+time 1483920088
+new [description:"write mazda doc" entry:"1483920088" modified:"1483920088" status:"pending" uuid:"6ef14b05-fe8a-47b2-a7a3-4c9732df6b10"]
+---
+time 1483920108
+new [description:"debeka pflegepflicht" entry:"1483920108" modified:"1483920108" status:"pending" uuid:"6ddfc1b6-7503-4101-88b7-213b2d51a35d"]
+---
+time 1483920116
+new [description:"debeka oscar" entry:"1483920116" modified:"1483920116" status:"pending" uuid:"f00db4e6-6b64-46c9-8c40-7d0ddec72b03"]
+---
+time 1483920177
+new [description:"debeka oscar" entry:"1483920177" modified:"1483920177" project:"private" status:"pending" uuid:"a4874c16-fae5-460f-b42d-1e6905a303da"]
+---
+time 1483920189
+new [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920189" project:"private" status:"pending" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+---
+time 1483920213
+new [description:"enhance doc" entry:"1483920213" modified:"1483920213" project:"mazla" status:"pending" uuid:"965f2806-8cdb-4119-af03-ed7e9598cfc2"]
+---
+time 1483920439
+new [description:"debeka oscar" entry:"1483920439" modified:"1483920439" project:"private" status:"pending" uuid:"cc43f82b-7eb7-4603-9c42-1e4a5f6b41c2"]
+---
+time 1483920478
+old [description:"debeka pflegepflicht" entry:"1483920108" modified:"1483920108" status:"pending" uuid:"6ddfc1b6-7503-4101-88b7-213b2d51a35d"]
+new [description:"debeka pflegepflicht" end:"1483920473" entry:"1483920108" modified:"1483920478" status:"deleted" uuid:"6ddfc1b6-7503-4101-88b7-213b2d51a35d"]
+---
+time 1483920503
+new [description:"debeka oscar" entry:"1483920503" modified:"1483920503" project:"private" status:"pending" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+---
+time 1483920516
+new [description:"debeka oscar" entry:"1483920516" modified:"1483920516" status:"pending" uuid:"5e774556-ca04-4fb8-a718-441fd337d13a"]
+---
+time 1483920641
+old [description:"make preloader animation via css." entry:"1463656771" modified:"1463656771" project:"smartpress" status:"pending" uuid:"a23439ef-f7be-47a9-b9ad-2c96033a3aaf"]
+new [description:"make preloader animation via css." end:"1483920639" entry:"1463656771" modified:"1483920641" project:"smartpress" status:"deleted" uuid:"a23439ef-f7be-47a9-b9ad-2c96033a3aaf"]
+---
+time 1483920673
+old [description:"debeka oscar" entry:"1483920116" modified:"1483920116" status:"pending" uuid:"f00db4e6-6b64-46c9-8c40-7d0ddec72b03"]
+new [description:"debeka oscar" end:"1483920671" entry:"1483920116" modified:"1483920673" status:"deleted" uuid:"f00db4e6-6b64-46c9-8c40-7d0ddec72b03"]
+---
+time 1483920673
+old [description:"debeka oscar" entry:"1483920177" modified:"1483920177" project:"private" status:"pending" uuid:"a4874c16-fae5-460f-b42d-1e6905a303da"]
+new [description:"debeka oscar" end:"1483920673" entry:"1483920177" modified:"1483920673" project:"private" status:"deleted" uuid:"a4874c16-fae5-460f-b42d-1e6905a303da"]
+---
+time 1483920673
+old [description:"debeka oscar" entry:"1483920439" modified:"1483920439" project:"private" status:"pending" uuid:"cc43f82b-7eb7-4603-9c42-1e4a5f6b41c2"]
+new [description:"debeka oscar" end:"1483920673" entry:"1483920439" modified:"1483920673" project:"private" status:"deleted" uuid:"cc43f82b-7eb7-4603-9c42-1e4a5f6b41c2"]
+---
+time 1483920673
+old [description:"debeka oscar" entry:"1483920516" modified:"1483920516" status:"pending" uuid:"5e774556-ca04-4fb8-a718-441fd337d13a"]
+new [description:"debeka oscar" end:"1483920673" entry:"1483920516" modified:"1483920673" status:"deleted" uuid:"5e774556-ca04-4fb8-a718-441fd337d13a"]
+---
+time 1483920687
+old [description:"write mazda doc" entry:"1483920088" modified:"1483920088" status:"pending" uuid:"6ef14b05-fe8a-47b2-a7a3-4c9732df6b10"]
+new [description:"write mazda doc" end:"1483920684" entry:"1483920088" modified:"1483920687" status:"deleted" uuid:"6ef14b05-fe8a-47b2-a7a3-4c9732df6b10"]
+---
+time 1483920715
+old [description:"update markers.js to use the coordinates from the infrared table." entry:"1460574345" modified:"1460574345" project:"gatorade" status:"pending" uuid:"2c1614cf-68f5-43c4-b2e1-fdd05a3aec92"]
+new [description:"update markers.js to use the coordinates from the infrared table." end:"1483920713" entry:"1460574345" modified:"1483920715" project:"gatorade" status:"completed" uuid:"2c1614cf-68f5-43c4-b2e1-fdd05a3aec92"]
+---
+time 1483920715
+old [description:"implement calculation of ratios for all marker." entry:"1460574454" modified:"1460574454" project:"gatorade" status:"pending" uuid:"193f3640-0de2-4cf7-a1d3-db2b3a3c4345"]
+new [description:"implement calculation of ratios for all marker." end:"1483920715" entry:"1460574454" modified:"1483920715" project:"gatorade" status:"completed" uuid:"193f3640-0de2-4cf7-a1d3-db2b3a3c4345"]
+---
+time 1483920715
+old [description:"implement calculation of ratio of potential rectangles." entry:"1460574476" modified:"1460574476" project:"gatorade" status:"pending" uuid:"461bfbce-deac-4b67-8db4-6d1eae989077"]
+new [description:"implement calculation of ratio of potential rectangles." end:"1483920715" entry:"1460574476" modified:"1483920715" project:"gatorade" status:"completed" uuid:"461bfbce-deac-4b67-8db4-6d1eae989077"]
+---
+time 1483920715
+old [description:"detection for triangled marker." entry:"1460574529" modified:"1460574529" project:"gatorade" status:"pending" uuid:"a0898b74-74a9-49e5-9dd2-37a29b317d78"]
+new [description:"detection for triangled marker." end:"1483920715" entry:"1460574529" modified:"1483920715" project:"gatorade" status:"completed" uuid:"a0898b74-74a9-49e5-9dd2-37a29b317d78"]
+---
+time 1483920715
+old [description:"invoke app frontend methods after objects has been detected." entry:"1460574555" modified:"1460574555" project:"gatorade" status:"pending" uuid:"7aefa22e-db86-4bdb-a617-34a24171ed11"]
+new [description:"invoke app frontend methods after objects has been detected." end:"1483920715" entry:"1460574555" modified:"1483920715" project:"gatorade" status:"completed" uuid:"7aefa22e-db86-4bdb-a617-34a24171ed11"]
+---
+time 1483920715
+old [description:"implement some kind of candidate method" entry:"1460574959" modified:"1460574959" project:"gatorade" status:"pending" uuid:"d6e88ee6-d74b-4168-9c19-303319d70b41"]
+new [description:"implement some kind of candidate method" end:"1483920715" entry:"1460574959" modified:"1483920715" project:"gatorade" status:"completed" uuid:"d6e88ee6-d74b-4168-9c19-303319d70b41"]
+---
+time 1483920715
+old [description:"marker ids abgleichen." entry:"1460626729" modified:"1460626729" project:"gatorade" status:"pending" uuid:"43ad1382-303a-43b1-a268-44a7a5ef5004"]
+new [description:"marker ids abgleichen." end:"1483920715" entry:"1460626729" modified:"1483920715" project:"gatorade" status:"completed" uuid:"43ad1382-303a-43b1-a268-44a7a5ef5004"]
+---
+time 1483920715
+old [description:"prepare testsetup" entry:"1463656807" modified:"1463656807" project:"gatorade" status:"pending" uuid:"e257b51b-5eff-4f59-ad1d-1b8f8135fc2d"]
+new [description:"prepare testsetup" end:"1483920715" entry:"1463656807" modified:"1483920715" project:"gatorade" status:"completed" uuid:"e257b51b-5eff-4f59-ad1d-1b8f8135fc2d"]
+---
+time 1483920813
+old [description:"enhance doc" entry:"1483920213" modified:"1483920213" project:"mazla" status:"pending" uuid:"965f2806-8cdb-4119-af03-ed7e9598cfc2"]
+new [description:"enhance doc" entry:"1483920213" modified:"1483920813" project:"mazla" status:"pending" tags:"job" uuid:"965f2806-8cdb-4119-af03-ed7e9598cfc2"]
+---
+time 1483920830
+old [description:"debeka oscar" entry:"1483920503" modified:"1483920503" project:"private" status:"pending" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+new [description:"debeka oscar" entry:"1483920503" modified:"1483920830" status:"pending" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+---
+time 1483920839
+old [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920189" project:"private" status:"pending" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+new [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920839" status:"pending" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+---
+time 1483920856
+old [description:"debeka oscar" entry:"1483920503" modified:"1483920830" status:"pending" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+new [description:"debeka oscar" entry:"1483920503" modified:"1483920856" status:"pending" tags:"private" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+---
+time 1483920862
+old [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920839" status:"pending" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+new [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920862" status:"pending" tags:"private" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+---
+time 1483920897
+new [description:"vodafone überweisen" entry:"1483920897" modified:"1483920897" status:"pending" tags:"private" uuid:"e47d4a85-4b42-4d04-aa34-9e63b8b6c1ab"]
+---
+time 1483921651
+new [description:"finanzamt wg aufschub" entry:"1483921651" modified:"1483921651" status:"pending" tags:"private" uuid:"ff46146d-fb60-4c55-8000-61bcd32ea088"]
+---
+time 1484212680
+new [description:"server setup" entry:"1484212680" modified:"1484212680" project:"sihh" status:"pending" uuid:"4c45fd6f-6d13-4d78-916a-ea59a9b70a58"]
+---
+time 1484212711
+old [description:"server setup" entry:"1484212680" modified:"1484212680" project:"sihh" status:"pending" uuid:"4c45fd6f-6d13-4d78-916a-ea59a9b70a58"]
+new [description:"server setup" entry:"1484212680" modified:"1484212711" project:"sihh" status:"pending" tags:"job" uuid:"4c45fd6f-6d13-4d78-916a-ea59a9b70a58"]
+---
+time 1486451977
+old [description:"debeka pflegepflicht" entry:"1483920189" modified:"1483920862" status:"pending" tags:"private" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+new [description:"debeka pflegepflicht" end:"1486451975" entry:"1483920189" modified:"1486451977" status:"deleted" tags:"private" uuid:"5af6b6ff-7dcd-4655-ba79-2ac479a41505"]
+---
+time 1486451979
+old [description:"enhance doc" entry:"1483920213" modified:"1483920813" project:"mazla" status:"pending" tags:"job" uuid:"965f2806-8cdb-4119-af03-ed7e9598cfc2"]
+new [description:"enhance doc" end:"1486451977" entry:"1483920213" modified:"1486451979" project:"mazla" status:"deleted" tags:"job" uuid:"965f2806-8cdb-4119-af03-ed7e9598cfc2"]
+---
+time 1486451979
+old [description:"debeka oscar" entry:"1483920503" modified:"1483920856" status:"pending" tags:"private" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+new [description:"debeka oscar" end:"1486451979" entry:"1483920503" modified:"1486451979" status:"deleted" tags:"private" uuid:"fdf6d55d-e482-4b9f-bd95-2b41248e8fdf"]
+---
+time 1486451979
+old [description:"vodafone überweisen" entry:"1483920897" modified:"1483920897" status:"pending" tags:"private" uuid:"e47d4a85-4b42-4d04-aa34-9e63b8b6c1ab"]
+new [description:"vodafone überweisen" end:"1486451979" entry:"1483920897" modified:"1486451979" status:"deleted" tags:"private" uuid:"e47d4a85-4b42-4d04-aa34-9e63b8b6c1ab"]
+---
+time 1486451979
+old [description:"finanzamt wg aufschub" entry:"1483921651" modified:"1483921651" status:"pending" tags:"private" uuid:"ff46146d-fb60-4c55-8000-61bcd32ea088"]
+new [description:"finanzamt wg aufschub" end:"1486451979" entry:"1483921651" modified:"1486451979" status:"deleted" tags:"private" uuid:"ff46146d-fb60-4c55-8000-61bcd32ea088"]
+---
+time 1486451979
+old [description:"server setup" entry:"1484212680" modified:"1484212711" project:"sihh" status:"pending" tags:"job" uuid:"4c45fd6f-6d13-4d78-916a-ea59a9b70a58"]
+new [description:"server setup" end:"1486451979" entry:"1484212680" modified:"1486451979" project:"sihh" status:"deleted" tags:"job" uuid:"4c45fd6f-6d13-4d78-916a-ea59a9b70a58"]
+---
+time 1486452004
+new [description:"-project oceana server setup" entry:"1486452004" modified:"1486452004" status:"pending" uuid:"d58477fe-a353-4800-b24b-f83004c2f5f4"]
+---
+time 1486452017
+old [description:"-project oceana server setup" entry:"1486452004" modified:"1486452004" status:"pending" uuid:"d58477fe-a353-4800-b24b-f83004c2f5f4"]
+new [description:"-project oceana server setup" end:"1486452016" entry:"1486452004" modified:"1486452017" status:"deleted" uuid:"d58477fe-a353-4800-b24b-f83004c2f5f4"]
+---
+time 1486452057
+new [description:"server setup" entry:"1486452057" modified:"1486452057" project:"oceana" status:"pending" uuid:"84d10faa-b209-4720-8088-b6cb0f2c07de"]
+---
+time 1486452092
+new [description:"get data from instagram" entry:"1486452092" modified:"1486452092" project:"oceana" status:"pending" uuid:"6b22af24-429f-4dd9-8835-25d6212d951f"]
+---
+time 1486452168
+new [description:"get data from twitter" entry:"1486452168" modified:"1486452168" project:"oceana" status:"pending" uuid:"93a334ab-d2b9-4488-8a5d-e47912eff4b5"]
+---
+time 1486452184
+new [description:"sample form to submit dynamic data" entry:"1486452184" modified:"1486452184" project:"oceana" status:"pending" uuid:"296cba2d-d41e-412f-ae32-cf96553aed3c"]
+---
+time 1486452196
+new [description:"setup script to create vip data" entry:"1486452196" modified:"1486452196" project:"oceana" status:"pending" uuid:"82772ef5-b706-494c-adbd-c5bf261856b6"]
+---
+time 1486452243
+new [description:"sample page with updating list of messages" entry:"1486452243" modified:"1486452243" project:"oceana" status:"pending" uuid:"1feb1832-1ade-4cd8-80c7-b93ab727657e"]
+---
+time 1486452476
+old [description:"get data from instagram" entry:"1486452092" modified:"1486452092" project:"oceana" status:"pending" uuid:"6b22af24-429f-4dd9-8835-25d6212d951f"]
+new [description:"get data from instagram" entry:"1486452092" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"6b22af24-429f-4dd9-8835-25d6212d951f"]
+---
+time 1486452476
+old [description:"get data from twitter" entry:"1486452168" modified:"1486452168" project:"oceana" status:"pending" uuid:"93a334ab-d2b9-4488-8a5d-e47912eff4b5"]
+new [description:"get data from twitter" entry:"1486452168" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"93a334ab-d2b9-4488-8a5d-e47912eff4b5"]
+---
+time 1486452476
+old [description:"sample form to submit dynamic data" entry:"1486452184" modified:"1486452184" project:"oceana" status:"pending" uuid:"296cba2d-d41e-412f-ae32-cf96553aed3c"]
+new [description:"sample form to submit dynamic data" entry:"1486452184" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"296cba2d-d41e-412f-ae32-cf96553aed3c"]
+---
+time 1486452476
+old [description:"setup script to create vip data" entry:"1486452196" modified:"1486452196" project:"oceana" status:"pending" uuid:"82772ef5-b706-494c-adbd-c5bf261856b6"]
+new [description:"setup script to create vip data" entry:"1486452196" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"82772ef5-b706-494c-adbd-c5bf261856b6"]
+---
+time 1486452492
+old [description:"server setup" entry:"1486452057" modified:"1486452057" project:"oceana" status:"pending" uuid:"84d10faa-b209-4720-8088-b6cb0f2c07de"]
+new [description:"server setup" entry:"1486452057" modified:"1486452492" project:"oceana" status:"pending" tags:"job" uuid:"84d10faa-b209-4720-8088-b6cb0f2c07de"]
+---
+time 1486452496
+old [description:"sample page with updating list of messages" entry:"1486452243" modified:"1486452243" project:"oceana" status:"pending" uuid:"1feb1832-1ade-4cd8-80c7-b93ab727657e"]
+new [description:"sample page with updating list of messages" entry:"1486452243" modified:"1486452496" project:"oceana" status:"pending" tags:"job" uuid:"1feb1832-1ade-4cd8-80c7-b93ab727657e"]
+---
+time 1486452570
+new [description:"ensure beamer for rear projection is available." entry:"1486452570" modified:"1486452570" project:"sxsw" status:"pending" tags:"job" uuid:"fe5f4979-47d3-4256-8076-804a0486d515"]
+---
+time 1486452594
+new [description:"ensure graphite spray works" entry:"1486452594" modified:"1486452594" project:"sxsw" status:"pending" tags:"job" uuid:"477fa09d-d756-4891-97c9-0c42cd3a5980"]
+---
+time 1486452607
+new [description:"decide on copper vs graphite." entry:"1486452607" modified:"1486452607" project:"sxsw" status:"pending" tags:"job" uuid:"6688f2c5-da94-41f1-99b5-b932a471fdeb"]
+---
+time 1486452640
+new [description:"ensure 2nd pc is available" entry:"1486452640" modified:"1486452640" project:"sxsw" status:"pending" tags:"job" uuid:"316a20a5-03b3-4b0b-ba4b-c541f95aa929"]
+---
+time 1486452762
+new [description:"finalize cap" entry:"1486452762" modified:"1486452762" project:"dmdrnuino" status:"pending" tags:"job" uuid:"887ef112-d5fc-4816-92a5-63f785f8b563"]
+---
+time 1486452767
+new [description:"finalize rfid" entry:"1486452767" modified:"1486452767" project:"dmdrnuino" status:"pending" tags:"job" uuid:"55eedf27-3693-4d53-bdda-31c5b19c92a4"]
+---
+time 1486452807
+new [description:"ensure rpi allows restarts." entry:"1486452807" modified:"1486452807" project:"sxsw" status:"pending" tags:"job" uuid:"3d50fa48-c80b-4499-b662-06ea774e1426"]
+---
+time 1486453009
+new [description:"ensure all ordered products do arrive" entry:"1486453009" modified:"1486453009" project:"sxsw" status:"pending" tags:"job" uuid:"56786652-c266-4f39-9cab-73f841835701"]
+---
+time 1486453033
+new [description:"prepare all cap-stations" entry:"1486453033" modified:"1486453033" project:"sxsw" status:"pending" tags:"job" uuid:"42f1a8f3-7694-4c51-b6cf-eceb00da7a8f"]
+---
+time 1486910943
+old [description:"ensure beamer for rear projection is available." entry:"1486452570" modified:"1486452570" project:"sxsw" status:"pending" tags:"job" uuid:"fe5f4979-47d3-4256-8076-804a0486d515"]
+new [description:"ensure beamer for rear projection is available." end:"1486910943" entry:"1486452570" modified:"1486910943" project:"sxsw" status:"completed" tags:"job" uuid:"fe5f4979-47d3-4256-8076-804a0486d515"]
+---
+time 1486910996
+old [description:"ensure graphite spray works" entry:"1486452594" modified:"1486452594" project:"sxsw" status:"pending" tags:"job" uuid:"477fa09d-d756-4891-97c9-0c42cd3a5980"]
+new [description:"ensure graphite spray works" end:"1486910994" entry:"1486452594" modified:"1486910996" project:"sxsw" status:"completed" tags:"job" uuid:"477fa09d-d756-4891-97c9-0c42cd3a5980"]
+---
+time 1486910996
+old [description:"decide on copper vs graphite." entry:"1486452607" modified:"1486452607" project:"sxsw" status:"pending" tags:"job" uuid:"6688f2c5-da94-41f1-99b5-b932a471fdeb"]
+new [description:"decide on copper vs graphite." end:"1486910996" entry:"1486452607" modified:"1486910996" project:"sxsw" status:"completed" tags:"job" uuid:"6688f2c5-da94-41f1-99b5-b932a471fdeb"]
+---
+time 1486910996
+old [description:"ensure 2nd pc is available" entry:"1486452640" modified:"1486452640" project:"sxsw" status:"pending" tags:"job" uuid:"316a20a5-03b3-4b0b-ba4b-c541f95aa929"]
+new [description:"ensure 2nd pc is available" end:"1486910996" entry:"1486452640" modified:"1486910996" project:"sxsw" status:"completed" tags:"job" uuid:"316a20a5-03b3-4b0b-ba4b-c541f95aa929"]
+---
+time 1486910996
+old [description:"ensure rpi allows restarts." entry:"1486452807" modified:"1486452807" project:"sxsw" status:"pending" tags:"job" uuid:"3d50fa48-c80b-4499-b662-06ea774e1426"]
+new [description:"ensure rpi allows restarts." end:"1486910996" entry:"1486452807" modified:"1486910996" project:"sxsw" status:"completed" tags:"job" uuid:"3d50fa48-c80b-4499-b662-06ea774e1426"]
+---
+time 1486910996
+old [description:"ensure all ordered products do arrive" entry:"1486453009" modified:"1486453009" project:"sxsw" status:"pending" tags:"job" uuid:"56786652-c266-4f39-9cab-73f841835701"]
+new [description:"ensure all ordered products do arrive" end:"1486910996" entry:"1486453009" modified:"1486910996" project:"sxsw" status:"completed" tags:"job" uuid:"56786652-c266-4f39-9cab-73f841835701"]
+---
+time 1487310295
+old [description:"get data from twitter" entry:"1486452168" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"93a334ab-d2b9-4488-8a5d-e47912eff4b5"]
+new [description:"get data from twitter" end:"1487310295" entry:"1486452168" modified:"1487310295" project:"oceana" status:"completed" tags:"job" uuid:"93a334ab-d2b9-4488-8a5d-e47912eff4b5"]
+---
+time 1487310319
+new [description:"setup rpi" entry:"1487310319" modified:"1487310319" project:"sxsw" status:"pending" uuid:"77b417f7-819f-45e8-ac01-2f56713c8946"]
+---
+time 1487310343
+new [description:"prepare nodered for panel a" entry:"1487310343" modified:"1487310343" project:"sxsw" status:"pending" uuid:"9bd9b282-3482-48b6-a2f4-34933c2e197d"]
+---
+time 1487310345
+new [description:"prepare nodered for panel b" entry:"1487310345" modified:"1487310345" project:"sxsw" status:"pending" uuid:"b70c7597-a1bf-4afb-80ac-57e0e805cd59"]
+---
+time 1487310347
+new [description:"prepare nodered for panel c" entry:"1487310347" modified:"1487310347" project:"sxsw" status:"pending" uuid:"ff765350-91bb-4b2e-a5ce-0d4cf2346f9d"]
+---
+time 1487310380
+old [description:"prepare nodered for panel a" entry:"1487310343" modified:"1487310343" project:"sxsw" status:"pending" uuid:"9bd9b282-3482-48b6-a2f4-34933c2e197d"]
+new [description:"prepare nodered for panel a" entry:"1487310343" modified:"1487310380" project:"sxsw" status:"pending" tags:"job" uuid:"9bd9b282-3482-48b6-a2f4-34933c2e197d"]
+---
+time 1487310386
+old [description:"prepare nodered for panel b" entry:"1487310345" modified:"1487310345" project:"sxsw" status:"pending" uuid:"b70c7597-a1bf-4afb-80ac-57e0e805cd59"]
+new [description:"prepare nodered for panel b" entry:"1487310345" modified:"1487310386" project:"sxsw" status:"pending" tags:"job" uuid:"b70c7597-a1bf-4afb-80ac-57e0e805cd59"]
+---
+time 1487310389
+old [description:"prepare nodered for panel c" entry:"1487310347" modified:"1487310347" project:"sxsw" status:"pending" uuid:"ff765350-91bb-4b2e-a5ce-0d4cf2346f9d"]
+new [description:"prepare nodered for panel c" entry:"1487310347" modified:"1487310389" project:"sxsw" status:"pending" tags:"job" uuid:"ff765350-91bb-4b2e-a5ce-0d4cf2346f9d"]
+---
+time 1487310400
+old [description:"setup rpi" entry:"1487310319" modified:"1487310319" project:"sxsw" status:"pending" uuid:"77b417f7-819f-45e8-ac01-2f56713c8946"]
+new [description:"setup rpi" entry:"1487310319" modified:"1487310400" project:"sxsw" status:"pending" tags:"job" uuid:"77b417f7-819f-45e8-ac01-2f56713c8946"]
+---
+time 1487340093
+old [description:"prepare all cap-stations" entry:"1486453033" modified:"1486453033" project:"sxsw" status:"pending" tags:"job" uuid:"42f1a8f3-7694-4c51-b6cf-eceb00da7a8f"]
+new [description:"prepare all cap-stations" end:"1487340093" entry:"1486453033" modified:"1487340093" project:"sxsw" status:"completed" tags:"job" uuid:"42f1a8f3-7694-4c51-b6cf-eceb00da7a8f"]
+---
+time 1487701105
+old [description:"get data from instagram" entry:"1486452092" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"6b22af24-429f-4dd9-8835-25d6212d951f"]
+new [description:"get data from instagram" end:"1487701103" entry:"1486452092" modified:"1487701105" project:"oceana" status:"deleted" tags:"job" uuid:"6b22af24-429f-4dd9-8835-25d6212d951f"]
+---
+time 1487701121
+old [description:"finalize cap" entry:"1486452762" modified:"1486452762" project:"dmdrnuino" status:"pending" tags:"job" uuid:"887ef112-d5fc-4816-92a5-63f785f8b563"]
+new [description:"finalize cap" end:"1487701121" entry:"1486452762" modified:"1487701121" project:"dmdrnuino" status:"completed" tags:"job" uuid:"887ef112-d5fc-4816-92a5-63f785f8b563"]
+---
+time 1487701121
+old [description:"finalize rfid" entry:"1486452767" modified:"1486452767" project:"dmdrnuino" status:"pending" tags:"job" uuid:"55eedf27-3693-4d53-bdda-31c5b19c92a4"]
+new [description:"finalize rfid" end:"1487701121" entry:"1486452767" modified:"1487701121" project:"dmdrnuino" status:"completed" tags:"job" uuid:"55eedf27-3693-4d53-bdda-31c5b19c92a4"]
+---
+time 1487701173
+old [description:"server setup" entry:"1486452057" modified:"1486452492" project:"oceana" status:"pending" tags:"job" uuid:"84d10faa-b209-4720-8088-b6cb0f2c07de"]
+new [description:"server setup" end:"1487701170" entry:"1486452057" modified:"1487701173" project:"oceana" status:"completed" tags:"job" uuid:"84d10faa-b209-4720-8088-b6cb0f2c07de"]
+---
+time 1487701173
+old [description:"sample form to submit dynamic data" entry:"1486452184" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"296cba2d-d41e-412f-ae32-cf96553aed3c"]
+new [description:"sample form to submit dynamic data" end:"1487701173" entry:"1486452184" modified:"1487701173" project:"oceana" status:"completed" tags:"job" uuid:"296cba2d-d41e-412f-ae32-cf96553aed3c"]
+---
+time 1487701173
+old [description:"setup script to create vip data" entry:"1486452196" modified:"1486452476" project:"oceana" status:"pending" tags:"job" uuid:"82772ef5-b706-494c-adbd-c5bf261856b6"]
+new [description:"setup script to create vip data" end:"1487701173" entry:"1486452196" modified:"1487701173" project:"oceana" status:"completed" tags:"job" uuid:"82772ef5-b706-494c-adbd-c5bf261856b6"]
+---
+time 1487701173
+old [description:"sample page with updating list of messages" entry:"1486452243" modified:"1486452496" project:"oceana" status:"pending" tags:"job" uuid:"1feb1832-1ade-4cd8-80c7-b93ab727657e"]
+new [description:"sample page with updating list of messages" end:"1487701173" entry:"1486452243" modified:"1487701173" project:"oceana" status:"completed" tags:"job" uuid:"1feb1832-1ade-4cd8-80c7-b93ab727657e"]
+---
+time 1487701173
+old [description:"prepare nodered for panel a" entry:"1487310343" modified:"1487310380" project:"sxsw" status:"pending" tags:"job" uuid:"9bd9b282-3482-48b6-a2f4-34933c2e197d"]
+new [description:"prepare nodered for panel a" end:"1487701173" entry:"1487310343" modified:"1487701173" project:"sxsw" status:"completed" tags:"job" uuid:"9bd9b282-3482-48b6-a2f4-34933c2e197d"]
+---
+time 1487701173
+old [description:"prepare nodered for panel b" entry:"1487310345" modified:"1487310386" project:"sxsw" status:"pending" tags:"job" uuid:"b70c7597-a1bf-4afb-80ac-57e0e805cd59"]
+new [description:"prepare nodered for panel b" end:"1487701173" entry:"1487310345" modified:"1487701173" project:"sxsw" status:"completed" tags:"job" uuid:"b70c7597-a1bf-4afb-80ac-57e0e805cd59"]
+---
+time 1487701173
+old [description:"prepare nodered for panel c" entry:"1487310347" modified:"1487310389" project:"sxsw" status:"pending" tags:"job" uuid:"ff765350-91bb-4b2e-a5ce-0d4cf2346f9d"]
+new [description:"prepare nodered for panel c" end:"1487701173" entry:"1487310347" modified:"1487701173" project:"sxsw" status:"completed" tags:"job" uuid:"ff765350-91bb-4b2e-a5ce-0d4cf2346f9d"]
+---
+time 1495656451
+old [description:"setup rpi" entry:"1487310319" modified:"1487310400" project:"sxsw" status:"pending" tags:"job" uuid:"77b417f7-819f-45e8-ac01-2f56713c8946"]
+new [description:"setup rpi" end:"1495656451" entry:"1487310319" modified:"1495656451" project:"sxsw" status:"completed" tags:"job" uuid:"77b417f7-819f-45e8-ac01-2f56713c8946"]
+---

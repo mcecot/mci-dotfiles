@@ -2,13 +2,15 @@
 
 ## Prequisites
 
-we use homebrew for installing packages on our osx machines. there is a bundler available for hombrew which will help to resolve all dependencies using a `Brewfile`. you can [read more](https://github.com/Homebrew/homebrew-bundle).
+we use homebrew for installing packages on our osx machines. there is a bundler available for hombrew which will help to resolve all dependencies using a `Brewfile`. you can [read more here](https://github.com/Homebrew/homebrew-bundle).
 
     brew tap Homebrew/bundle
     cd ~/.dotfiles
     brew bundle
 
 Have a look at the `Brewfile` to check what will be installed. 
+
+
 
 ## Plugins
   * [ZPlug](https://github.com/zplug/zplug)
@@ -20,6 +22,9 @@ Have a look at the `Brewfile` to check what will be installed.
   * [k](https://github.com/supercrabtree/k) - k is the new l, yo
   * [zim](https://github.com/Eriner/zim) - ZIM - Zsh IMproved
 
+## TODOS:
+  * Explain Autocompletion
+  * Git Flow
 
 
 
@@ -73,6 +78,11 @@ https://github.com/helmuthdu/conky_colors
 ### Themes
 * https://github.com/caiogondim/bullet-train.zsh
 
+
+### Nice CLI Tools
+
+* https://github.com/lirantal/dockly
+* https://taskwarrior.org/
 
 
 ### INSPIRATION
