@@ -79,3 +79,9 @@ fi
 
 #ulimit -n 524288
 #ulimit -u 2048
+
+export ANSIBLE_HOSTS=~/projects/ansible/hosts
+export ANSIBLE_NOCOWS=1
+
+#export ANDROID_HOME=/Users/mc/Library/Android/sdk
+export ANDROID_HOME=/usr/local/Cellar/android-sdk/24.4.1_1

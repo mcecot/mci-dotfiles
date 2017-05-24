@@ -9,5 +9,5 @@ fi
 
 if [ -d $HOME/.scm_breeze ]; then
   echo "deleting scm-breeze"
-  # rm -rf $HOME/.scm_breeze
+  rm -rf $HOME/.scm_breeze
 fi

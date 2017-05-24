@@ -1,5 +1,33 @@
 # The Dotfiles Project
 
+## Prequisites
+
+we use homebrew for installing packages on our osx machines. there is a bundler available for hombrew which will help to resolve all dependencies using a `Brewfile`. you can [read more](https://github.com/Homebrew/homebrew-bundle).
+
+    brew tap Homebrew/bundle
+    cd ~/.dotfiles
+    brew bundle
+
+Have a look at the `Brewfile` to check what will be installed. 
+
+## Plugins
+  * [ZPlug](https://github.com/zplug/zplug)
+  * [SCM Breeze](https://github.com/scmbreeze/scm_breezecd )
+  * [ZSH Autoenv](https://github.com/Tarrasch/zsh-autoenv)
+  * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go
+  * [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
+  * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+  * [k](https://github.com/supercrabtree/k) - k is the new l, yo
+  * [zim](https://github.com/Eriner/zim) - ZIM - Zsh IMproved
+
+
+
+
+
+
+
+
+
 ## [RCM](https://github.com/thoughtbot/rcm)
 
 all dotfiles are organzied using rcm.
@@ -39,3 +67,15 @@ https://github.com/ralphbean/bugwarrior
 
 https://github.com/brndnmtthws/conky
 https://github.com/helmuthdu/conky_colors
+
+
+
+### Themes
+* https://github.com/caiogondim/bullet-train.zsh
+
+
+
+### INSPIRATION
+* https://github.com/rwanyoike/dotfiles/tree/master/tag-macos
+* https://github.com/jimmidyson/dotfiles/blob/master/.zshrc
+* https://github.com/adambiggs/dotfiles
