@@ -1,0 +1,2 @@
+TAGS="zgen scm_breeze task tmux"
+EXCLUDES="Readme.md LICENSE rcrc.template Brewfile up.sh down.sh plugins.zsh"

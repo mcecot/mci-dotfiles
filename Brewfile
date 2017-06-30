@@ -8,6 +8,9 @@ brew 'zplug'
 # https://github.com/junegunn/fzf
 brew 'fzf'
 
+# https://github.com/jhawthorn/fzy
+brew 'fzy'
+
 # https://stedolan.github.io/jq/
 brew 'jq'
 brew 'awk'

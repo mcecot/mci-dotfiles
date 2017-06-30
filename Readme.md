@@ -86,6 +86,7 @@ https://github.com/helmuthdu/conky_colors
 
 
 ### INSPIRATION
+* https://github.com/jzelinskie/dotfiles/blob/master/.zshrc
 * https://github.com/rwanyoike/dotfiles/tree/master/tag-macos
 * https://github.com/jimmidyson/dotfiles/blob/master/.zshrc
 * https://github.com/adambiggs/dotfiles

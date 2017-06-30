@@ -1,0 +1,55 @@
+LIASES ###
+
+# General shortcuts
+alias sudo='sudo ' # @see http://askubuntu.com/a/22043
+alias ..=' cd ..; ls'
+alias ...=' cd ..; cd ..; ls'
+alias ....=' cd ..; cd ..; cd ..; ls'
+alias cd..='..'
+alias cd...='...'
+alias cd....='....'
+
+alias k9='kill -9'
+
+alias echopath='echo $PATH | tr ":" "\012"'
+alias kmux='tmux kill-server'
+alias vimclean='rm -rf ~/.config/nvim/session/* ~/.config/nvim/swap/* ~/.config/nvim/undo/*  ~/.config/nvim/views/*'
+
+# Git
+alias github='gitit'
+alias gitgraph='git log --all --graph --decorate --oneline'
+
+# NeoVim
+alias nvim-debug='ulimit -c unlimited && nvim'
+alias nvim-backtrace='gdb -q -n -ex bt -batch /usr/local/bin/nvim /cores/core.* > backtrace.txt && rm -f /cores/core.*'
+
+# Scripts
+alias fr='$HOME/.dotfiles/scripts/find-and-replace.sh'
+alias stackshot='sudo $HOME/.dotfiles/scripts/stackshot/stackshot.sh'
+
+# Docker
+alias drun='docker run --rm -ti'
+alias drc='docker rm $(docker ps -a -q) 2>/dev/null' # http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
+alias dri='docker rmi $(docker images -q --filter "dangling=true") 2>/dev/null' # http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html#comment-1515979883
+
+# Boot2Docker
+alias 2d='boot2docker'
+alias 2ds='boot2docker start && $(boot2docker shellinit)'
+
+# Docker Compose
+alias dc='docker-compose'
+alias dcu='docker-compose up -d --remove-orphans'
+alias dcl='docker-compose logs --tail 200 -f'
+alias dcr='docker-compose run --rm'
+docker_compose_rm() {
+  docker-compose stop --timeout 1 $@
+  docker-compose rm --force $@
+}
+alias dcrm=docker_compose_rm
+
+# Docker Machine
+alias dm='docker-machine'
+
+# LMPM
+alias lmpm="$REPO_PATH/lmpm/builder/use.sh"
+

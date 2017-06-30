@@ -1,0 +1,18 @@
+############
+## ALIASE ##
+############
+
+alias l='k -ah'
+alias cpwd='pwd | tee /dev/tty | pbcopy && echo "... copied to clipboard"'
+alias mux='tmuxinator $@'
+
+# General shortcuts
+alias sudo='sudo ' # @see http://askubuntu.com/a/22043
+alias ..=' cd ..; ls'
+alias ...=' cd ..; cd ..; ls'
+alias ....=' cd ..; cd ..; cd ..; ls'
+alias cd..='..'
+alias cd...='...'
+alias cd....='....'
+
+alias k9='kill -9'

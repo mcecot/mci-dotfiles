@@ -1,0 +1,13 @@
+" plugins config
+
+call plug#begin('~/.nvim/bundles')
+"Plug 'neovim-colors-solarized-truecolor-only'
+Plug 'lifepillar/vim-solarized8'
+Plug 'bling/vim-airline'
+call plug#end()
+
+syntax enable
+set background=light
+
+set termguicolors
+colorscheme solarized8_light_flat

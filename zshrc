@@ -1,79 +1,120 @@
-# [[ -d ~/.zplug ]] || {
-#   git clone https://github.com/zplug/zplug ~/.zplug
-#   source ~/.zplug/zplug
-#   zplug update --self
-# }
+export DOTFILES_DEBUG=false
 
-export ZPLUG_HOME=/usr/local/opt/zplug
-source $ZPLUG_HOME/init.zsh
-
-#source ~/.zplug/zplug    
-
-#zplug 'zplug/zplug'
-# zplug "robbyrussell/oh-my-zsh"
-# # zplug "plugins/autojump", from:oh-my-zsh
-# # zplug "plugins/thefuck", from:oh-my-zsh
-# zplug "plugins/git", from:oh-my-zsh
-# # zplug "plugins/gitfast", from:oh-my-zsh
-# zplug "plugins/npm", from:oh-my-zsh
-# # zplug "plugins/pip", from:oh-my-zsh
-# # zplug "plugins/python", from:oh-my-zsh
-# zplug "johnhamelink/rvm-zsh", if:"which rvm"
-# 
-# # https://github.com/Tarrasch/zsh-autoenv
-# zplug "Tarrasch/zsh-autoenv"
-
-# prezto
-zstyle ':prezto:module:prompt' theme agnoster
-zstyle ':prezto:module:autosuggestions' color 'yes'
-
-zplug "modules/autosuggestions", from:prezto
-zplug "modules/directory", from:prezto
-zplug "modules/prompt", from:prezto
-zplug "modules/completion", from:prezto
-zplug "modules/environment", from:prezto
-zplug "modules/osx", from:prezto
-zplug "modules/homebrew", from:prezto
-zplug "modules/terminal", from:prezto
-zplug "modules/editor", from:prezto
-zplug "modules/history", from:prezto
-#zplug "modules/ssh", from:prezto
-zplug "modules/directory", from:prezto
-zplug "modules/utility", from:prezto
-zplug "modules/completion", from:prezto
-
-
-zplug "zsh-users/zsh-syntax-highlighting", defer:2
-
-zplug "supercrabtree/k"
+##################################################################################
+# POWERLEVEL9K Theme options
+##################################################################################
+POWERLEVEL9K_MODE='nerdfont-complete'
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon root_indicator context dir)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs nvm virtualenv rvm)
+POWERLEVEL9K_PROMPT_ON_NEWLINE=false
+POWERLEVEL9K_STATUS_VERBOSE=false
+POWERLEVEL9K_TIME_FORMAT="%D{%H:%M \uE868  %d.%m.%y}"
+POWERLEVEL9K_NVM_BACKGROUND='022'
+POWERLEVEL9K_NVM_FOREGROUND='white'
+POWERLEVEL9K_RVM_BACKGROUND="black"
+POWERLEVEL9K_RVM_FOREGROUND="249"
+POWERLEVEL9K_RVM_VISUAL_IDENTIFIER_COLOR="red"
+export DEFAULT_USER="${USER}"
 
 # Node.JS 
 export NVM_AUTO_USE=true
-zplug "lukechilds/zsh-nvm"
 
-# Let zplug manage zplug.
-zplug "zplug/zplug", hook-build:"zplug --self-manage"
 
-if ! zplug check --verbose; then
-  printf "Install? [y/N]: "
-  if read -q; then
-    echo; zplug install
+# Set case-sensitivity for completion, history lookup, etc.
+zstyle ':prezto:*:*' case-sensitive 'yes'
+
+# Color output (auto set to 'no' on dumb terminals).
+zstyle ':prezto:*:*' color 'yes'
+ 
+zstyle ':prezto:module:prompt' theme powerlevel9k
+
+
+################################################################################
+# MANAGE PLUGINS
+################################################################################
+export ZPLUG_HOME=~/.config/zplug
+source `brew --prefix zplug`/init.zsh
+
+source ~/.dotfiles/plugins.zsh
+
+fpath=(~/.dotfiles/completions/vue-cli.completion.zsh $fpath)
+
+if $DOTFILES_DEBUG = true; then
+  if ! zplug check --verbose; then
+    printf "Install? [y/N]: "
+    if read -q; then
+      echo; zplug install
+    fi
   fi
+else
+  if ! zplug check; then
+    printf "Install? [y/N]: "
+    if read -q; then
+      echo; zplug install
+    fi
+  fi
+fi 
+
+if $DOTFILES_DEBUG = true; then
+  zplug load --verbose
+else
+  zplug load
 fi
 
-zplug load #--verbose
+source ~/.dotfiles/.aliases
+#source ~/.zpreztorc
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-export FZF_DEFAULT_COMMAND="ag -g \"\""
+##################################################################################
+# change location of .rcrc file for rcm
+##################################################################################
+export RCRC=`echo "$HOME/.dotfiles/.rcrc"`
 
-## RVM 
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-
-## SCM Breeze
-[ -s "$HOME/.scm_breeze/scm_breeze.sh" ] && source "$HOME/.scm_breeze/scm_breeze.sh"
-
-
-export SLACK_TOKEN=xoxp-2195625722-31251406898-139250347413-c4eb13b48c251b0121a5f06f70f6ea97
 # tabtab source for yarn package
 # uninstall by removing these lines or running `tabtab uninstall yarn`
 [[ -f /Users/mc/.config/yarn/global/node_modules/tabtab/.completions/yarn.zsh ]] && . /Users/mc/.config/yarn/global/node_modules/tabtab/.completions/yarn.zsh
+
+##################################################################################
+# source RC Files for all linked tags
+##################################################################################
+for file in ~/.rcm-tags/* ; do
+  if [ -f "$file" ] ; then
+    . "$file"
+  fi
+done
+
+##################################################################################
+# Place all your secret tokens and passwords in there
+##################################################################################
+source ~/.dotfiles/.secrets
+
+
+##################################################################################
+# EnhanCD
+##################################################################################
+#export ENHANCD_HOOK_AFTER_CD='k -ah'
+export ENHANCD_DISABLE_DOT=1
+export ENHANCD_FILTER=fzf:fzy
+
+##################################################################################
+# OpenSSL
+##################################################################################
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+# export LDFLAGS:  -L/usr/local/opt/openssl/lib
+# export CPPFLAGS: -I/usr/local/opt/openssl/include
+# export PKG_CONFIG_PATH: /usr/local/opt/openssl/lib/pkgconfig
+alias craftman="/Users/mc/.craftman/bin/craftman"
+
+#export PATH="$PATH:$HOME/.rvm/bin"
+##################################################################################
+# Ruby Setup
+##################################################################################
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
+
+##################################################################################
+# SCM BREEZE
+##################################################################################
+[[ -s "$HOME/.scm_breeze/scm_breeze.sh" ]] && source "$HOME/.scm_breeze/scm_breeze.sh"
+
+# see https://github.com/sorin-ionescu/prezto/issues/1081
+unsetopt AUTO_NAME_DIRS
